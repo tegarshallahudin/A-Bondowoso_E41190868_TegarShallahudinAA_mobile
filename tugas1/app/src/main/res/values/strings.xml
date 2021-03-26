@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tugas1</string>
+    <string name="tegar">nama</string>
+    <string name="nama_lengkap">nama lengkap</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="massage">Massage</string>
+    <string name="send">Send</string>
+    <string name="remider">remider</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>
