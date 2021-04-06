@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExampleListView</string>
+    <string name="title">tittle</string>
+    <string name="description">descrption</string>
+    <string-array name="countries_array">
+        <item>Afganistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Americam Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antartica</item>
+        <item>Barbuda</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belgium</item>
+    </string-array>
+</resources>
